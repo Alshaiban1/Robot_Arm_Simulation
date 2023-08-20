@@ -1,4 +1,4 @@
-### Robot Arm Simulation
+## Robot Arm Simulation
 The robot arm packages provided in the repository https://github.com/smart-methods/arduino_robot_arm were used to run a simulation of the robot arm in RViz and Gazebo.
 The uploaded images are the screenshots of the simulation on a virtual box running ROS melodic on ubuntu 18.04.
 
@@ -29,10 +29,10 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 
 ## Prepare ROS for simulation
 
-2. Create a workspace by using catkin_make
+1. Create a workspace by using catkin_make
 http://wiki.ros.org/catkin/Tutorials/create_a_workspace 
 
-2. Install the package arduino_robot_arm
+1. Install the package arduino_robot_arm
 - Add the “arduino_robot_arm” package to “src” folder
 '''
 	$ cd ~/catkin_ws/src
@@ -56,7 +56,7 @@ $ catkin_make
 
 ## Simulation
 
-3. Launch robot arm on RViz
+1. Launch robot arm on RViz
 '''
 $ roslaunch robot_arm_pkg check_motors.launch
 '''
@@ -64,11 +64,11 @@ $ roslaunch robot_arm_pkg check_motors.launch
 '''
 $ roslaunch robot_arm_pkg check_motors_gazebo.launch
 '''
-3. Python script to transfer data from RViz to Gazebo
+1. Python script to transfer data from RViz to Gazebo
 '''
 $ rosrun robot_arm_pkg joint_states_to_gazebo.py
 '''
-3. Change the permission for python script
+1. Change the permission for python script
 '''
 	$ cd catkin_ws/src/arduino_robot_arm/robot_arm_pkg/scripts
 	$ sudo chmod +x joint_states_to_gazebo.py
