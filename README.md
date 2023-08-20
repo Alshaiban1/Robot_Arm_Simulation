@@ -1,4 +1,4 @@
-![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/e57fcdde-9707-4855-a68b-6db955a41400)![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/b9a92a4d-dbd4-4fe3-b443-3bdf898f37a1)![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/13230e66-4acd-4a48-ab11-0e7079700f08)![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/ea9151e0-c601-4e3b-b79d-b351788cbf10)![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/1166eb90-30a3-4c50-b7b8-cd506abb2d49)![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/ee515829-cccc-4f86-98c4-a09c606f34f5)![image](https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/8f31d52c-505d-4c36-af92-6e9ac36e0cfc)## Robot Arm Simulation
+### Robot Arm Simulation
 The robot arm packages provided in the repository https://github.com/smart-methods/arduino_robot_arm were used to run a simulation of the robot arm in RViz and Gazebo.
 The uploaded images are the screenshots of the simulation on a virtual box running ROS melodic on ubuntu 18.04.
 
