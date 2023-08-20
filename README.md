@@ -76,14 +76,14 @@ $ rosrun robot_arm_pkg joint_states_to_gazebo.py
 
  ## Terminator terminals and simulation images
 
- -Terminals
+ - Terminals
  <img width="1151" alt="Robot Arm Simulation Terminal" src="https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/c8b555cb-0d65-4635-806a-9c5d5325c82f">
 
--Robot arm at rest
+- Robot arm at rest
 <img width="1145" alt="Robot Arm Simulation Resting Position" src="https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/74fdc112-d2d8-454b-8ea0-3051347f7a9a">
 
 
--Robot arm moved
+- Robot arm moved
 <img width="1149" alt="Robot Arm Simulation" src="https://github.com/Alshaiban1/Robot_Arm_Simulation/assets/139134530/47b38763-de49-43a8-90aa-0cca9812c30b">
 
  
